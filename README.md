@@ -51,3 +51,6 @@ O código pode ser compilado e carregado no Raspberry Pi Pico utilizando uma fer
 
 - A implementação do debounce garante que os botões não registrem múltiplos cliques acidentais.
 - A matriz de LEDs tem 25 pixels e é mapeada de forma a exibir os números de 0 a 9 corretamente.
+  
+## Vídeo da Execução
+- https://youtu.be/ZMHjVfqoo1Y?feature=shared
