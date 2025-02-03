@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/InterrupcaoCepedi.uf2'
+elf = 'build/InterrupcaoCepedi.elf'
